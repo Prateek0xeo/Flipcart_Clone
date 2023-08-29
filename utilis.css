@@ -1,0 +1,21 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    width: 23px;
+    height: 23px;
+    border: 2px;
+    cursor: pointer;
+}
+.btn img{
+    width: 23px;
+    height: 23px;
+}
+.my_cart1{
+    margin: 0px 23px;
+}
+.text-center{
+    text-align: center;
+}
